@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\bin\Debug\Teste_For.exe.config
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\bin\Debug\Teste_For.exe
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\bin\Debug\Teste_For.pdb
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.Form1.resources
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.exe
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.pdb
+C:\Users\Pricilla\source\repos\Teste_For\Teste_For\obj\Debug\Teste_For.csprojAssemblyReference.cache

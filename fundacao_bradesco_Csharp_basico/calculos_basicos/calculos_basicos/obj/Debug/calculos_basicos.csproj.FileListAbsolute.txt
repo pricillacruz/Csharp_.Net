@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\bin\Debug\calculos_basicos.exe.config
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\bin\Debug\calculos_basicos.exe
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\bin\Debug\calculos_basicos.pdb
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.Form1.resources
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.exe
+C:\Users\Pricilla\source\repos\calculos_basicos\calculos_basicos\obj\Debug\calculos_basicos.pdb

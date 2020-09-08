@@ -1,0 +1,11 @@
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\bin\Debug\Wxwmplos_While_for.exe.config
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\bin\Debug\Wxwmplos_While_for.exe
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\bin\Debug\Wxwmplos_While_for.pdb
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.Form1.resources
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.Form2.resources
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.exe
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.pdb
+C:\Users\Pricilla\source\repos\Wxwmplos_While_for\Wxwmplos_While_for\obj\Debug\Wxwmplos_While_for.csprojAssemblyReference.cache

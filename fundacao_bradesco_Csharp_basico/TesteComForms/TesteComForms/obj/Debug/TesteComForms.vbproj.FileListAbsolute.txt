@@ -1,0 +1,11 @@
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\bin\Debug\TesteComForms.exe.config
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\bin\Debug\TesteComForms.exe
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\bin\Debug\TesteComForms.pdb
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\bin\Debug\TesteComForms.xml
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.vbprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.Form1.resources
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.Resources.resources
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.vbproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.exe
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.xml
+C:\Users\Pricilla\source\repos\TesteComForms\TesteComForms\obj\Debug\TesteComForms.pdb

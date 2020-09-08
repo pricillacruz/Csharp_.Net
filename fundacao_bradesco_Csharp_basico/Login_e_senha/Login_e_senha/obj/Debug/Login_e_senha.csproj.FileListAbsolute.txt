@@ -1,0 +1,11 @@
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\bin\Debug\Login_e_senha.exe.config
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\bin\Debug\Login_e_senha.exe
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\bin\Debug\Login_e_senha.pdb
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.Form1.resources
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.Form2.resources
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.exe
+C:\Users\Pricilla\source\repos\Login_e_senha\Login_e_senha\obj\Debug\Login_e_senha.pdb

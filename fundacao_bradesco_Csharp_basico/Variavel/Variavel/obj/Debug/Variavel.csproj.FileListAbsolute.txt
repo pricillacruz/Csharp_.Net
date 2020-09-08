@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Variavel\Variavel\bin\Debug\Variavel.exe.config
+C:\Users\Pricilla\source\repos\Variavel\Variavel\bin\Debug\Variavel.exe
+C:\Users\Pricilla\source\repos\Variavel\Variavel\bin\Debug\Variavel.pdb
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.Form1.resources
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.exe
+C:\Users\Pricilla\source\repos\Variavel\Variavel\obj\Debug\Variavel.pdb

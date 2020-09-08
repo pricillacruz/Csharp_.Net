@@ -1,0 +1,7 @@
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\bin\Debug\Calculo_parcelas.exe.config
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\bin\Debug\Calculo_parcelas.exe
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\bin\Debug\Calculo_parcelas.pdb
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\obj\Debug\Calculo_parcelas.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\obj\Debug\Calculo_parcelas.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\obj\Debug\Calculo_parcelas.exe
+C:\Users\Pricilla\source\repos\Calculo_parcelas\Calculo_parcelas\obj\Debug\Calculo_parcelas.pdb

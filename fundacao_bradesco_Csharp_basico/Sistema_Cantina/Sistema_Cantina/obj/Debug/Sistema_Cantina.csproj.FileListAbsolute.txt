@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Form1.resources
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe.config
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.exe
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\bin\Debug\Sistema_Cantina.pdb
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.exe
+C:\Users\Pricilla\source\repos\Sistema_Cantina\Sistema_Cantina\obj\Debug\Sistema_Cantina.pdb

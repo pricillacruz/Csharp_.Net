@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\bin\Debug\Calculo_media.exe.config
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\bin\Debug\Calculo_media.exe
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\bin\Debug\Calculo_media.pdb
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.Form1.resources
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.exe
+C:\Users\Pricilla\source\repos\Calculo_media\Calculo_media\obj\Debug\Calculo_media.pdb

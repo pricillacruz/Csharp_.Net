@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe.config
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.pdb
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Form1.resources
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.exe
+C:\Users\Pricilla\source\repos\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.pdb
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Form1.resources
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.exe
+C:\Users\Pricilla\source\repos\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.pdb

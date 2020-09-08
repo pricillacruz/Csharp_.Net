@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\bin\Debug\Helloworld_windows.exe.config
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\bin\Debug\Helloworld_windows.exe
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\bin\Debug\Helloworld_windows.pdb
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.Form1.resources
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.exe
+C:\Users\Pricilla\source\repos\Helloworld_windows\Helloworld_windows\obj\Debug\Helloworld_windows.pdb

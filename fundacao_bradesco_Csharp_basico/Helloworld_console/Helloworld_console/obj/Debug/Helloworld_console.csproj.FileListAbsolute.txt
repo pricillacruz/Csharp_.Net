@@ -1,0 +1,7 @@
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe.config
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.pdb
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.exe
+C:\Users\Pricilla\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.pdb

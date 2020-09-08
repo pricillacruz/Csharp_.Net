@@ -1,0 +1,11 @@
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.vbprojAssemblyReference.cache
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.Form1.resources
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.Resources.resources
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.vbproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\bin\Debug\TesteSomaForms.exe.config
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\bin\Debug\TesteSomaForms.exe
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\bin\Debug\TesteSomaForms.pdb
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\bin\Debug\TesteSomaForms.xml
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.exe
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.xml
+C:\Users\Pricilla\source\repos\TesteSomaForms\TesteSomaForms\obj\Debug\TesteSomaForms.pdb

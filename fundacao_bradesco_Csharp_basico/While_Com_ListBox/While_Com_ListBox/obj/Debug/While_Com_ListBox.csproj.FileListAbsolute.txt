@@ -1,0 +1,9 @@
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\bin\Debug\While_Com_ListBox.exe.config
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\bin\Debug\While_Com_ListBox.exe
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\bin\Debug\While_Com_ListBox.pdb
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.Form1.resources
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.exe
+C:\Users\Pricilla\source\repos\While_Com_ListBox\While_Com_ListBox\obj\Debug\While_Com_ListBox.pdb

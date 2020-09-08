@@ -1,0 +1,10 @@
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\bin\Debug\While_Tabuada.exe.config
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\bin\Debug\While_Tabuada.exe
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\bin\Debug\While_Tabuada.pdb
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.Form1.resources
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.Properties.Resources.resources
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.csproj.GenerateResource.cache
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.exe
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.pdb
+C:\Users\Pricilla\source\repos\While_Tabuada\While_Tabuada\obj\Debug\While_Tabuada.csprojAssemblyReference.cache
